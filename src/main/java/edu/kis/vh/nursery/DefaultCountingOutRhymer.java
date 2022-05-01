@@ -18,6 +18,10 @@ public class DefaultCountingOutRhymer {
 		return total == NEGATIVE;
 	}
 
+	public int getTotal() {
+		return total;
+	}
+
 	public boolean isFull() {
 		return total == FULL;
 	}
