@@ -10,7 +10,7 @@ public class Node {
 		setValue(i);
 	}
 
-	private int getValue() {
+	int getValue() {
 		return value;
 	}
 
@@ -18,19 +18,19 @@ public class Node {
 		this.value = value;
 	}
 
-	private Node getPrev() {
+	Node getPrev() {
 		return prev;
 	}
 
-	private void setPrev(Node prev) {
+	void setPrev(Node prev) {
 		this.prev = prev;
 	}
 
-	private Node getNext() {
+	Node getNext() {
 		return next;
 	}
 
-	private void setNext(Node next) {
+	void setNext(Node next) {
 		this.next = next;
 	}
 }
