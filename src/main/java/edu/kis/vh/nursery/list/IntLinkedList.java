@@ -1,5 +1,18 @@
 package edu.kis.vh.nursery.list;
 
+/**
+ *
+ * klasa linked list jest lista jednokierunkowa
+ * Metoda push w klasie dodaje nowy nod do listy
+ * Metoda isEmpty sprawdza czy lista jest pusta
+ * Metoda isFull sprawdza czy lista jest pelna
+ * Metoda top daje ostatni dodany element
+ * Metoda pop usuwa ostatnio dodany element
+ *
+ * 
+ */
+
+
 public class IntLinkedList {
 
 	private static final int NEGATIVE = -1;
