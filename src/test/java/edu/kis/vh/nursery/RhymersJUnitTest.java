@@ -3,6 +3,8 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+
+//po wykonaniu zadan testy nadal przechodza
 public class RhymersJUnitTest {
 
 	@Test
