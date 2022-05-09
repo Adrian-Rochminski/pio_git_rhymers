@@ -9,7 +9,7 @@ class RhymersDemo {
 
 	public static void main(String[] args) {
 		Rhymersfactory factory = new DefaultRhymersFactory();
-
+			//testy po ekstrakcji kodu dzialaja i wykonuja sie poprawnie 
 		testRhymers(factory);
 
 	}
