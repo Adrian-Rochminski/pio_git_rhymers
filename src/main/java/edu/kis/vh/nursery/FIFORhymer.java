@@ -1,5 +1,7 @@
 package edu.kis.vh.nursery;
 
+// TODO: 09.05.2022 usunac niepotrzebne funkcje 
+
 public class FIFORhymer extends DefaultCountingOutRhymer {
 
 

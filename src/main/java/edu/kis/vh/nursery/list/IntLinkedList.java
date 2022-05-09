@@ -9,7 +9,7 @@ package edu.kis.vh.nursery.list;
  * Metoda top daje ostatni dodany element
  * Metoda pop usuwa ostatnio dodany element
  *
- * 
+ *
  */
 
 
