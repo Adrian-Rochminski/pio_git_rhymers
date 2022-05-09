@@ -3,6 +3,15 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ *
+ * klasa testujaca dzialanie napisanej klasy i
+ * jej metod.
+ * Testy jednostkowe metod.
+ *
+ */
+
+
 public class RhymersJUnitTest {
 
 	@Test

@@ -5,11 +5,20 @@ import edu.kis.vh.nursery.HanoiRhymer;
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
+
+/**
+ *
+ * klasa testujaca dzialanie napisanej klasy i
+ * jej metod.
+ * Testy jednostkowe metod i main.
+ *
+ */
+
 class RhymersDemo {
 
 	public static void main(String[] args) {
 		Rhymersfactory factory = new DefaultRhymersFactory();
-			//testy po ekstrakcji kodu dzialaja i wykonuja sie poprawnie 
+			//testy po ekstrakcji kodu dzialaja i wykonuja sie poprawnie
 		testRhymers(factory);
 
 	}
