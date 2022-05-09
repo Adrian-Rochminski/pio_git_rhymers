@@ -3,6 +3,10 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+
+//po wykonaniu zadan testy nadal przechodza
+
+// TODO: 09.05.2022 usunac niepotrzebne linijki kodu w testach 
 public class RhymersJUnitTest {
 
 	@Test
