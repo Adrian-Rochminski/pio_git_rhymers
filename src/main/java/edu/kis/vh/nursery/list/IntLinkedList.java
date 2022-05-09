@@ -1,5 +1,7 @@
 package edu.kis.vh.nursery.list;
 
+// TODO: 09/05/2022 Przejrzenie uzytecznosci metod nieuzywanych w zadnym tescie
+
 public class IntLinkedList {
 
 	private static final int NEGATIVE = -1;

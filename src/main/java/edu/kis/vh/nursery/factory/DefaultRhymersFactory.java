@@ -5,6 +5,9 @@ import edu.kis.vh.nursery.FIFORhymer;
 import edu.kis.vh.nursery.HanoiRhymer;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
+// TODO: 09/05/2022 metody mozna uzaleznic od siebie
+
+
 public class DefaultRhymersFactory implements Rhymersfactory {
 
 	@Override

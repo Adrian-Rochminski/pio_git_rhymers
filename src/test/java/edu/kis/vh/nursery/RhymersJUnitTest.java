@@ -12,6 +12,7 @@ import org.junit.Test;
  */
 
 
+// TODO: 09/05/2022 poprawienie jakosci testow jednostkowych. Usuniecie zbednych lini kodu
 public class RhymersJUnitTest {
 
 	@Test
